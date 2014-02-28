@@ -63,4 +63,5 @@ int main()
 	sumCount = 0;
 	checkCoinSum(0,0);
 	printf("the result is: %d", sumCount);
+	return 0;
 }
